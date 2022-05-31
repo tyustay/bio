@@ -1,0 +1,15 @@
+C:\zhuravlev_3-2is\bio\bio\bin\Debug\bio.exe.config
+C:\zhuravlev_3-2is\bio\bio\bin\Debug\bio.exe
+C:\zhuravlev_3-2is\bio\bio\bin\Debug\bio.pdb
+C:\zhuravlev_3-2is\bio\bio\obj\Debug\bio.csproj.AssemblyReference.cache
+C:\zhuravlev_3-2is\bio\bio\obj\Debug\MainWindow.g.cs
+C:\zhuravlev_3-2is\bio\bio\obj\Debug\App.g.cs
+C:\zhuravlev_3-2is\bio\bio\obj\Debug\bio_MarkupCompile.cache
+C:\zhuravlev_3-2is\bio\bio\obj\Debug\bio_MarkupCompile.lref
+C:\zhuravlev_3-2is\bio\bio\obj\Debug\MainWindow.baml
+C:\zhuravlev_3-2is\bio\bio\obj\Debug\bio.g.resources
+C:\zhuravlev_3-2is\bio\bio\obj\Debug\bio.Properties.Resources.resources
+C:\zhuravlev_3-2is\bio\bio\obj\Debug\bio.csproj.GenerateResource.cache
+C:\zhuravlev_3-2is\bio\bio\obj\Debug\bio.csproj.CoreCompileInputs.cache
+C:\zhuravlev_3-2is\bio\bio\obj\Debug\bio.exe
+C:\zhuravlev_3-2is\bio\bio\obj\Debug\bio.pdb
